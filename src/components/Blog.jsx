@@ -1,7 +1,7 @@
 import Button from "./Button";
-import Estate1 from "../assets/estate-1.png";
-import Estate2 from "../assets/estate-2.png";
-import Estate3 from "../assets/estate-3.png";
+import Estate1 from "/src/assets/estate-1.png";
+import Estate2 from "/src/assets/estate-2.png";
+import Estate3 from "/src/assets/estate-3.png";
 
 const Blog = () => {
   return (

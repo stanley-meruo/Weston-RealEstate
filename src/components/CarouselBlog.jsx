@@ -6,19 +6,19 @@ import { TfiArrowCircleLeft, TfiArrowCircleRight } from "react-icons/tfi";
 
 const slides = [
   {
-    image: "/src/assets/estate-1.png",
+    image: "src/assets/estate-1.png",
     content_0: "LUXURY REAL ESTATE MARKET COMPARISON IN LOS ANGELES",
     content_1:
       "We have the oppoturnity to interview John Verhoff owner of Plumbing  Nerds. They are a full service Plumbing Company Serving the Southwest Florida Area. Discover how he grew to 10 trucks and is up over $800k year over year (on pace for $2.7M this year). He shares some amazing insights on how they keep the ..",
   },
   {
-    image: "/src/assets/estate-2.png",
+    image: "src/assets/estate-2.png",
     content_0: "LUXURY REAL ESTATE MARKET COMPARISON IN LOS ANGELES",
     content_1:
       "We have the oppoturnity to interview John Verhoff owner of Plumbing  Nerds. They are a full service Plumbing Company Serving the Southwest Florida Area. Discover how he grew to 10 trucks and is up over $800k year over year (on pace for $2.7M this year). He shares some amazing insights on how they keep the ..",
   },
   {
-    image: "/src/assets/estate-3.png",
+    image: "src/assets/estate-3.png",
     content_0: "LUXURY REAL ESTATE MARKET COMPARISON IN LOS ANGELES",
     content_1:
       "We have the oppoturnity to interview John Verhoff owner of Plumbing  Nerds. They are a full service Plumbing Company Serving the Southwest Florida Area. Discover how he grew to 10 trucks and is up over $800k year over year (on pace for $2.7M this year). He shares some amazing insights on how they keep the ..",

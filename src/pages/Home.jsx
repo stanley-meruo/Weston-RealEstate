@@ -6,8 +6,8 @@ import HomeTestimony from "../components/HomeComponents/HomeTestimony.jsx";
 import HomeBlog from "../components/HomeComponents/HomeBlog.jsx";
 import ContactForm from "../components/ContactForm.jsx";
 
-const Home = () => {
 
+const Home = () => {
   return (
     <>
       <HomeHeroSection />

@@ -61,12 +61,12 @@ const HomeHeroSection = () => {
             <Button
               title="Discover More"
               type="button"
-              className="bg-black text-white font-light font-montserrat py-3 px-5  border border-black hover:bg-white hover:text-black sm:px-8 lg:hidden"
+              className="bg-black text-white font-light font-montserrat py-3 px-5  border border-black sm:px-8 lg:hidden"
             />
             <Button
               title="Discover Properties"
               type="button"
-              className="bg-black text-white font-light font-montserrat py-3 px-8 border border-black hover:bg-white hover:text-black hidden lg:flex"
+              className="bg-black text-white font-light font-montserrat py-3 px-8 border border-black hidden lg:flex"
             />
             <Button
               title="Learn More"

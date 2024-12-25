@@ -8,7 +8,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        contactbg: ["url('src/assets/housePool.png')"],
+        contactbg: ["url('/src/assets/housePool.png')"],
       },
       screens: {
         xs: "480px",

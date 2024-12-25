@@ -3,8 +3,8 @@ import { TfiArrowCircleLeft, TfiArrowCircleRight } from "react-icons/tfi";
 
 
 const images = [
-  "src/assets/Slider/image-0.png",
-  "src/assets/Slider/image-1.png",
+  "src/assets/image-0.png",
+  "src/assets/image-1.png",
 ];
 
 const ImageSlider = () => {

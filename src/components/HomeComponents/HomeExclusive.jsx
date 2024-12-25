@@ -66,7 +66,7 @@ const HomeExclusive = () => {
             />
           </motion.div>
           <motion.div
-            className="grid w-full lg:w-3/4"
+            className="grid lg:w-3/4"
             initial={{ opacity: 0, x: 100 }}
             whileInView={{ opacity: 1, x: 1 }}
             transition={{
@@ -77,7 +77,7 @@ const HomeExclusive = () => {
           >
             <img
               src={Skycrapper}
-              className="py-4 w-full h-auto mx-auto lg:min-h-[670px]"
+              className="py-4 pr-1 w-full h-auto mx-auto lg:min-h-[670px]"
             />
           </motion.div>
         </div>

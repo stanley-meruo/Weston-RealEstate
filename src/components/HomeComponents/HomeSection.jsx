@@ -32,7 +32,7 @@ const HomeSection = () => {
   }
     return (
       <>
-        <section className="overflow-x-hidden px-5 py-10 md:py-16 lg:py-20 lg:px-10 xl:pt-24 xl:px-16">
+        <section className="px-5 py-10 md:py-16 lg:py-20 lg:px-10 xl:pt-24 xl:px-16">
           <motion.div
             className="text-center"
             initial={{ opacity: 0, y: -100 }}
